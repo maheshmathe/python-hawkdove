@@ -1,6 +1,8 @@
 python-hawkdove
 ===============
 
+**Update:** dated 15-05-2021 Original code used Python2. I ported it to Python 3. 
+
 A simulation of Hawk Dove game theory in python
 
 NOTE: If you have pylab installed, at the end of the last round, a graph will be produced
